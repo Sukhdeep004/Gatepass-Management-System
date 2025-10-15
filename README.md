@@ -7,18 +7,28 @@ GPMS replaces traditional manual gate pass systems with a digital solution that 
 **Features**
 
 Admin Registration & Login - Secure authentication with session management
+
 Dashboard - Real-time statistics (Total passes, Today's passes, Weekly passes)
+
 Pass Management - Create, view, edit, and delete gate passes
+
 Multiple Categories - Support for Visitor, Employee, Student, and Vendor passes
+
 Identity Verification - Supports Aadhaar, PAN, Passport, Driving License, Voter Card
+
 Reports Module - Generate Daily, Monthly, Yearly, and Custom date range reports
+
 Print Functionality - Professional print-optimized pass layout
+
 Complete Security - Password encryption, SQL injection prevention, session-based access control
 
 **Technology Stack**
 Frontend: HTML5, CSS3, Bootstrap 5.3, JavaScript, Font Awesome
+
 Backend: PHP 7.2+, MySQL 5.7+
+
 Server: Apache/XAMPP
+
 
 **Installation**
 
