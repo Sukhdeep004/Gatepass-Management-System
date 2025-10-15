@@ -78,26 +78,6 @@ Then import the provided getpassdb.sql file via phpMyAdmin or command line.
 - Print Pass
   Click print button for professional output
 
-**Project Structure**
-
-gpms/
-├── includes/            # Header, footer, sidebar files
-├── img/                 # Images and assets
-├── index.html           # Landing page
-├── index.php            # Login page
-├── register.php         # Admin registration
-├── dashboard.php        # Dashboard with statistics
-├── add-pass.php         # Create new pass
-├── manage-passes.php    # View all passes
-├── view-pass-detail.php # View single pass
-├── edit-pass-detail.php # Edit pass
-├── delete-pass.php      # Delete pass
-├── reports.php          # Report generation
-├── logout.php           # Logout handler
-├── db.php               # Database configuration
-├── style.css            # Custom styles
-└── getpassdb.sql        # Database schema
-
 **Security Features**
 
 - Session-based authentication on all pages
